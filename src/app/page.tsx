@@ -1,5 +1,5 @@
 import Image from "next/image";
-import avatar from "/Users/fadiismail/Desktop/headshot.jpeg"; // replace with your actual image path
+
 
 export default function Home() {
   return (
@@ -8,7 +8,7 @@ export default function Home() {
         {/* Avatar Section */}
         <div className="flex-shrink-0 mb-6 md:mb-0 md:mr-12">
           <Image
-            src={avatar}
+            src={"/headshot.jpeg"}
             alt="Avatar"
             className="rounded-full"
             width={250}
