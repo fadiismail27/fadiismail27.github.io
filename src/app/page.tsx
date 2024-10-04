@@ -21,11 +21,11 @@ export default function Home() {
         <div className="text-center md:text-left">
           <h1 className="text-5xl font-bold mb-8 text-black">Hi, my name is Fadi</h1>
           <p className="text-black leading-relaxed">
-          I’m a sophomore at Cornell University, majoring in Computer Science, with a passion for full-stack software engineering, 
-          machine learning, and exploring how technology can enhance healthcare. I’ve had the opportunity to work on various projects, 
+          Im a sophomore at Cornell University, majoring in Computer Science, with a passion for full-stack software engineering, 
+          machine learning, and exploring how technology can enhance healthcare. Ive had the opportunity to work on various projects, 
           from building a chatbot and analyzing population genetics to contributing to a CV model to detect crossbores in the Atlanta area. 
           I also enjoy taking on leadership roles; I serve as an RA and hold positions in organizations that promote diversity and 
-          cultural awareness. I'm driven by a desire to use technology to make a positive impact, especially in areas like assistive 
+          cultural awareness. Im driven by a desire to use technology to make a positive impact, especially in areas like assistive 
           technology, healthcare, and community development.
           </p>
         </div>
